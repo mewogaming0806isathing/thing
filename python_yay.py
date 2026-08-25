@@ -1,10 +1,10 @@
 from turtle import *
 
-forward(10)
+forward(100)
 right(90)
-forward(10)
+forward(100)
 right(90)
-forward(10)
+forward(100)
 right(90)
-forward(10)
+forward(100)
 right(90)
